@@ -1,0 +1,1628 @@
+@media (max-width: 1472px) {
+    header .slider {
+        height: 500px;
+    }
+
+    header .slide .content-slide1 {
+        padding: 10% 9.8% 10% 9.8%;
+    }
+
+    header .slide .part1-content-slide1 {
+        height: 100%;
+    }
+
+    header .txt-content-slide1 h1 {
+        font-size: 36px;
+    }
+
+    header .txt-content-slide1 p {
+        font-size: 17.5px;
+    }
+
+    header .slider .manual-navigation {
+        margin-top: -4.45%;
+    }
+
+    #section-histories.section-pecas .title-content {
+        padding-left: 8.5%;
+    }
+}
+
+
+@media (max-width: 1391px) {
+    header .txt-content-slide1 h1 {
+        font-size: 35px;
+    }
+
+    #section-introduction .img-content-introduction {
+        width: 44%;
+        height: 285px;
+    }
+
+    #section-histories .histories-content {
+        gap: 40px;
+    }
+
+    #section-histories.section-pecas .title-content {
+        padding-left: 8%;
+    }
+
+    section#section-pag-sobre .objetivo-content, 
+    section#section-pag-sobre .contato-content {
+        padding-left: 50px;
+    }
+
+    section#section-pag-sobre .objetivo-content .second-img {
+        width: 310px;
+        height: 95%;
+    }
+
+    section#section-pag-sobre .contato-content .third-img {
+        width: 250px;
+        height: 125px;
+    }
+}
+
+@media (max-width: 1368px) {
+    header .slide .txt-content-slide1 {
+        width: 81%;
+    }
+}
+
+@media (max-width: 1359px) {
+    header .slide .txt-content-slide1 {
+        width: 82%;
+    }
+
+    header .content-slide1 img {
+        height: 315px
+    }
+}
+
+@media (max-width: 1348px) {
+    header .slide .txt-content-slide1 {
+        width: 84%;
+    }
+
+    #section-histories.section-pecas .title-content {
+        padding-left: 7%;
+    }
+
+    section#section-pag-sobre .qm-somos-content {
+        padding-left: 90px;
+    }
+}
+
+@media (max-width: 1280px) {
+    header .slide .txt-content-slide1 {
+        width: 86%;
+    }
+
+    #section-introduction .img-content-introduction {
+        height: 285px;
+    }
+
+    #section-introduction .txt-content-introduction h1 {
+        font-size: 35px;
+    }
+
+    #section-introduction .txt-content-introduction p {
+        font-size: 17px;
+    }
+
+    #section-introduction .txt-content-introduction a {
+        margin-top: 10px;
+        font-size: 14px;
+    }
+
+    #section-histories .histories-content .history-card {
+        width: 235px;
+        height: 375px;
+    }
+
+    section#section-pag-sobre .qm-somos-content .first-img {
+        width: 700px;
+        height: 470px;
+    }
+
+    section#section-pag-sobre .txt-objetivo h2, 
+    section#section-pag-sobre .txt-contato h2 {
+        font-size: 31px;
+    }
+
+    section#section-pag-sobre .objetivo-content .second-img {
+        width: 270px;
+        height: 88%;
+    }
+
+    section#section-pag-sobre .contato-content .third-img {
+        width: 210px;
+        height: 110px;
+    }
+}
+
+@media (max-width: 1264px) {
+    header .slide .txt-content-slide1 {
+        gap: 2%;
+    }
+
+    header .txt-content-slide1 h1 {
+        font-size: 32px;
+    }
+
+    header .content-slide1 img {
+        height: 290px
+    }
+
+    #section-introduction .img-content-introduction {
+        height: 265px;
+    }
+
+    #section-introduction .txt-content-introduction h1 {
+        font-size: 33px;
+    }
+
+    #section-introduction .txt-content-introduction p {
+        font-size: 16px;
+    }
+
+    #section-introduction .txt-content-introduction a {
+        margin-top: 7px;
+        font-size: 13.5px;
+    }
+
+    #section-introduction .txt-content-introduction .divider {
+        margin-bottom: 22px;
+    }
+
+    section#section-pag-sobre .qm-somos-content .first-img {
+        width: 640px;
+        height: 430px;
+    }
+}
+
+@media (max-width: 1158px) {
+    header .slide .txt-content-slide1 {
+        width: 84%;
+    }
+
+    header .txt-content-slide1 h1 {
+        font-size: 30px;
+    }
+
+    header .txt-content-slide1 p {
+        font-size: 17px;
+    }
+
+    header .txt-content-slide1 a {
+        padding: 7px;
+    }
+
+    header .slide .part1-content-slide1 {
+        height: 70%;
+    }
+
+    #section-introduction .img-content-introduction {
+        width: 47%;
+        height: 245px;
+    }
+
+    #section-introduction .txt-content-introduction h1 {
+        font-size: 32px;
+    }
+
+    #section-introduction .txt-content-introduction p {
+        font-size: 16px;
+    }
+
+    #section-introduction .txt-content-introduction a {
+        margin-top: 6px;
+        padding: 8px 18px;
+        font-size: 13px;
+    }
+
+    #section-introduction .txt-content-introduction .divider {
+        margin-bottom: 22px;
+    }
+
+    #section-introduction .txt-content-introduction {
+        width: 46%;
+    }
+
+    #section-introduction {
+        padding: 110px 125px;
+    }
+
+    #section-histories .histories-content {
+        width: 80%;
+    }
+
+    section#section-pag-sobre .qm-somos-content .first-img {
+        width: 600px;
+        height: 400px;
+    }
+
+    section#section-pag-sobre .container-lasts-content-sobre {
+        height: 250px;
+    }
+
+    section#section-pag-sobre .objetivo-content, 
+    section#section-pag-sobre .contato-content {
+        padding-left: 42px;
+    }
+
+    section#section-pag-sobre .txt-objetivo h2, 
+    section#section-pag-sobre .txt-contato h2 {
+        font-size: 28px;
+    }
+
+    section#section-pag-sobre .objetivo-content .second-img {
+        width: 225px;
+        height: 85%;
+    }
+
+    section#section-pag-sobre .contato-content .third-img {
+        width: 180px;
+        height: 93px;
+    }
+}
+
+@media (max-width: 1132px) {
+    header .content-slide1 img {
+        height: 315px
+    }
+
+    header .slider .manual-navigation {
+        margin-top: -6.45%;
+    }
+
+    footer .signs-container-footer {
+        margin: 40px 14% 20px 11%;
+    }
+
+    section#section-pag-sobre .qm-somos-content {
+        height: 480px;
+        padding-left: 70px;
+    }
+
+    section#section-pag-sobre .txt-qm-somos h2 {
+        font-size: 46px;
+    }
+
+    section#section-pag-sobre .qm-somos-content .first-img {
+        width: 550px;
+        height: 370px;
+    }
+}
+
+@media (max-width: 1020px) {
+    header .txt-content-slide1 h1 {
+        font-size: 28px;
+    }
+
+    header .txt-content-slide1 p {
+        font-size: 15px;
+    }
+
+    header .txt-content-slide1 a {
+        padding: 7px;
+
+        font-size: 15px;
+    }
+
+    #section-introduction .img-content-introduction {
+        height: 215px;
+    }
+
+    #section-introduction .txt-content-introduction h1 {
+        font-size: 29px;
+    }
+
+    #section-introduction .txt-content-introduction p {
+        font-size: 16px;
+    }
+
+    #section-introduction .txt-content-introduction a {
+        margin-top: 4px;
+        font-size: 12px;
+    }
+
+    #section-introduction .txt-content-introduction .divider {
+        margin-bottom: 17px;
+    }
+
+    header.header-others-pags .container-header {
+        padding-top: 90px;
+        padding-bottom: 90px;
+    }
+
+    section#section-pag-sobre .qm-somos-content {
+        height: 400px;
+    }
+
+    section#section-pag-sobre .txt-qm-somos h2 {
+        font-size: 39px;
+    }
+
+    section#section-pag-sobre .qm-somos-content .first-img {
+        width: 500px;
+        height: 320px;
+    }
+
+    section#section-pag-sobre .container-lasts-content-sobre {
+        height: 210px;
+    }
+
+    section#section-pag-sobre .objetivo-content, 
+    section#section-pag-sobre .contato-content {
+        padding-left: 39px;
+    }
+
+    section#section-pag-sobre .txt-objetivo h2, 
+    section#section-pag-sobre .txt-contato h2 {
+        font-size: 25px;
+    }
+
+    section#section-pag-sobre .objetivo-content .second-img {
+        width: 190px;
+        height: 88%;
+    }
+
+    section#section-pag-sobre .contato-content .third-img {
+        width: 145px;
+        height: 75px;
+    }
+}
+
+@media (max-width: 934px) {
+    header .content-slide1 img {
+        height: 290px;
+    }
+
+    header .slider {
+        height: 420px;
+    }
+
+    header .slider .manual-btn {
+        padding: 4px;
+    }
+
+    header .slider .manual-navigation {
+        margin-top: -5.45%;
+    }
+
+    #section-introduction {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 50px;
+    }
+
+    #section-introduction .img-content-introduction {
+        width: 70%;
+        height: 285px;
+    }
+
+    #section-introduction .txt-content-introduction h1 {
+        font-size: 32px;
+    }
+
+    #section-introduction .txt-content-introduction a {
+        margin-top: 10px;
+    }
+
+    #section-introduction .txt-content-introduction .divider {
+        margin-bottom: 26px;
+    }
+
+    #section-introduction .txt-content-introduction {
+        width: 100%;
+    }
+
+    section#section-pag-sobre .qm-somos-content {
+        height: 340px;
+    }
+
+    section#section-pag-sobre .txt-qm-somos h2 {
+        font-size: 37px;
+    }
+
+    section#section-pag-sobre .qm-somos-content .first-img {
+        width: 440px;
+        height: 280px;
+    }
+}
+
+@media (max-width: 921px) {
+    header .content-slide1 img {
+        height: 290px;
+    }
+
+    header .txt-content-slide1 h1 {
+        font-size: 26px;
+    }
+
+    header .txt-content-slide1 a {
+        padding: 5px;
+        font-size: 14px;
+    }
+
+    section#section-pag-sobre .container-lasts-content-sobre {
+        height: 190px;
+    }
+
+    section#section-pag-sobre .objetivo-content, 
+    section#section-pag-sobre .contato-content {
+        padding-left: 35px;
+    }
+
+    section#section-pag-sobre .txt-objetivo h2, 
+    section#section-pag-sobre .txt-contato h2 {
+        font-size: 23px;
+    }
+
+    section#section-pag-sobre .objetivo-content .second-img {
+        width: 170px;
+        height: 88%;
+    }
+
+    section#section-pag-sobre .contato-content .third-img {
+        width: 130px;
+        height: 69px;
+        margin-right: 30px;
+    }
+}
+
+@media (max-width: 872px) {
+    header .txt-content-slide1 h1 {
+        font-size: 24px;
+    }
+
+    header .txt-content-slide1 p {
+        font-size: 14px;
+    }
+
+    header .txt-content-slide1 a {
+        padding: 4px;
+
+        font-size: 13px;
+    }
+
+    header #active-sidebar {
+        display: block; 
+    }
+
+    header nav .menu-nav {
+        display: none;
+    }
+
+    #section-introduction .img-content-introduction {
+        width: 70%;
+        height: 255px;
+    }
+
+    section#section-pag-sobre .qm-somos-content {
+        height: 300px;
+        padding-left: 60px;
+    }
+
+    section#section-pag-sobre .txt-qm-somos h2 {
+        font-size: 34px;
+    }
+
+    section#section-pag-sobre .qm-somos-content .first-img {
+        width: 380px;
+        height: 250px;
+    }
+}
+
+@media (max-width: 847px) {
+    header .content-slide1 img {
+        height: 260px;
+    }
+
+    footer .lists-container-footer {
+        width: 80%;
+        margin-left: auto;
+        margin-right: auto;
+
+        flex-wrap: wrap;
+        justify-content: flex-start;
+        gap: 90px;
+    }
+
+    section#section-pag-sobre .container-lasts-content-sobre {
+        height: 160px;
+    }
+
+    section#section-pag-sobre .objetivo-content, 
+    section#section-pag-sobre .contato-content {
+        padding-left: 30px;
+    }
+
+    section#section-pag-sobre .txt-objetivo h2, 
+    section#section-pag-sobre .txt-contato h2 {
+        font-size: 22px;
+    }
+
+    section#section-pag-sobre .txt-objetivo .divider, 
+    section#section-pag-sobre .txt-contato .divider {
+        width: 30px;
+        height: 3px;
+        margin-top: 3px;
+    }
+
+    section#section-pag-sobre .objetivo-content .second-img {
+        width: 150px;
+        height: 87%;
+    }
+
+    section#section-pag-sobre .contato-content .third-img {
+        width: 115px;
+        height: 62px;
+    }
+}
+
+@media (max-width: 796px) {
+    header .content-slide1 img {
+        height: 230px;
+    }
+
+    header .slider {
+        height: 380px;
+    }
+
+    header .slider .manual-btn {
+        padding: 3.5px;
+    }
+
+    header .txt-content-slide1 h1 {
+        font-size: 23px;
+    }
+
+    header .txt-content-slide1 p {
+        font-size: 13.5px;
+    }
+
+    header .txt-content-slide1 a {
+        margin-top: 7px;
+        padding: 3.5px;
+
+        font-size: 12.5px;
+    }
+
+    #section-introduction .img-content-introduction {
+        width: 80%;
+    }
+
+    section#section-pag-sobre .qm-somos-content {
+        height: 270px;
+        padding-left: 55px;
+    }
+
+    section#section-pag-sobre .txt-qm-somos h2 {
+        font-size: 30px;
+    }
+
+    section#section-pag-sobre .qm-somos-content .first-img {
+        width: 340px;
+        height: 220px;
+    }
+
+    section#section-pag-sobre .container-lasts-content-sobre {
+        height: 140px;
+    }
+
+    section#section-pag-sobre .objetivo-content, 
+    section#section-pag-sobre .contato-content {
+        padding-left: 28px;
+    }
+
+    section#section-pag-sobre .txt-objetivo h2, 
+    section#section-pag-sobre .txt-contato h2 {
+        font-size: 20px;
+    }
+
+    section#section-pag-sobre .txt-objetivo .divider, 
+    section#section-pag-sobre .txt-contato .divider {
+        width: 28px;
+        height: 2.5px;
+        margin-top: 1px;
+    }
+
+    section#section-pag-sobre .objetivo-content .second-img {
+        width: 130px;
+        height: 87%;
+    }
+
+    section#section-pag-sobre .contato-content .third-img {
+        width: 100px;
+        height: 55px;
+    }
+}
+
+@media (max-width: 732px) {
+    header .content-slide1 img {
+        height: 200px;
+    }
+
+    header .txt-content-slide1 h1 {
+        line-height: 1.4;
+    }
+
+    header .txt-content-slide1 p {
+        line-height: 1.4;
+    }
+
+    header .txt-content-slide1 a {
+        width: 150px;
+        margin-top: 6px;
+    }
+
+    #section-introduction .img-content-introduction {
+        width: 90%;
+    }
+
+    header.header-others-pags .container-header {
+        padding-top: 70px;
+        padding-bottom: 70px;
+    }
+
+    header.header-others-pags .container-header h1 {
+        font-size: 36px;
+    }
+
+    section#section-pag-sobre {
+        gap: 25px;
+    }
+
+    section#section-pag-sobre .qm-somos-content {
+        height: 230px;
+        padding-left: 50px;
+    }
+
+    section#section-pag-sobre .txt-qm-somos h2 {
+        font-size: 28px;
+    }
+
+    section#section-pag-sobre .qm-somos-content .first-img {
+        width: 290px;
+        height: 190px;
+    }
+
+    section#section-pag-sobre .container-lasts-content-sobre {
+        height: 120px;
+    }
+
+    section#section-pag-sobre .objetivo-content, 
+    section#section-pag-sobre .contato-content {
+        padding-left: 25px;
+    }
+
+    section#section-pag-sobre .txt-objetivo h2, 
+    section#section-pag-sobre .txt-contato h2 {
+        font-size: 18px;
+    }
+
+    section#section-pag-sobre .txt-objetivo .divider, 
+    section#section-pag-sobre .txt-contato .divider {
+        width: 25px;
+    }
+
+    section#section-pag-sobre .objetivo-content .second-img {
+        width: 110px;
+        height: 87%;
+    }
+
+    section#section-pag-sobre .contato-content .third-img {
+        width: 87px;
+        height: 47px;
+        margin-right: 25px;
+    }
+}
+
+@media (max-width: 668px) {
+    header .slider {
+        height: 560px;
+        margin-top: 10px;
+    }
+
+    header .slide .part1-content-slide1 {
+        height: 238px;
+    }
+
+    header .slide .content-slide1 {
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: center;
+        padding: 8% 9.8% 12% 9.8%;
+    }
+
+    header .content-slide1 img {
+        width: 240px;
+        height: 230px;
+    }
+
+    header .txt-content-slide1 h1 {
+        margin-bottom: 7px;
+        font-size: 30px;
+        line-height: 1.5;
+    }
+
+    header .txt-content-slide1 p {
+        font-size: 15px;
+    }
+
+    header .txt-content-slide1 a {
+        width: 180px;
+        margin-top: 10px;
+        font-size: 15px;
+    }
+
+    header .slider .manual-navigation {
+        margin-top: -7.45%;
+    }
+
+    header .slider .manual-btn {
+        padding: 4px;
+    }
+
+    header .slide .txt-content-slide1 {
+        width: 100%;
+        flex-direction: column;
+        justify-content:flex-start;
+    }
+
+    #section-introduction .img-content-introduction {
+        width: 100%;
+        height: 225px;
+    }
+
+    footer .lists-container-footer {
+        flex-direction: column;
+        gap: 100px;
+    }
+
+    #section-histories.section-pecas .title-content h5 {
+        font-size: 19px;
+    }
+
+    #section-histories.section-pecas .title-content h2 {
+        font-size: 32px;
+    }
+
+    section#section-pag-sobre {
+        padding: 60px 90px 80px 90px;
+    }
+
+    section#section-pag-sobre .qm-somos-content {
+        height: 200px;
+        padding-left: 40px;
+    }
+
+    section#section-pag-sobre .txt-qm-somos h2 {
+        font-size: 25px;
+    }
+
+    section#section-pag-sobre .txt-qm-somos .divider {
+        width: 30px;
+        height: 3px;
+        margin-top: 0px;
+    }
+
+    section#section-pag-sobre .qm-somos-content .first-img {
+        width: 230px;
+        height: 160px;
+    }
+
+    section#section-pag-sobre .objetivo-content, 
+    section#section-pag-sobre .contato-content {
+        padding-left: 20px;
+    }
+
+    section#section-pag-sobre .txt-objetivo h2, 
+    section#section-pag-sobre .txt-contato h2 {
+        font-size: 15.5px;
+    }
+
+    section#section-pag-sobre .txt-objetivo span {
+        margin-bottom: 6px;
+    }
+
+    section#section-pag-sobre .txt-objetivo .divider, 
+    section#section-pag-sobre .txt-contato .divider {
+        width: 21px;
+    }
+
+    section#section-pag-sobre .objetivo-content .second-img {
+        width: 100px;
+        height: 86%;
+    }
+
+    section#section-pag-sobre .contato-content .third-img {
+        width: 83px;
+        height: 46px;
+        margin-right: 19px;
+    }
+
+    main .main-section summary {
+        font-size: 28px;
+    }
+
+    main .main-section h4 {
+        font-size: 20px;
+    }
+}
+
+@media (max-width: 580px) {
+    #section-introduction .img-content-introduction {
+        height: 195px;
+    }
+
+    #section-introduction .txt-content-introduction a {
+        text-align: center;
+        padding: 8px 10px;
+    }
+
+    header.header-others-pags .container-header {
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+
+    header.header-others-pags .container-header h1 {
+        font-size: 33px;
+    }
+
+    section#section-pag-sobre {
+        padding: 60px 70px 80px 70px;
+    }
+
+    section#section-pag-sobre .qm-somos-content {
+        height: 170px;
+        padding-left: 40px;
+    }
+
+    section#section-pag-sobre .txt-qm-somos h2 {
+        font-size: 22px;
+    }
+
+    section#section-pag-sobre .txt-qm-somos .divider {
+        width: 27px;
+    }
+
+    section#section-pag-sobre .qm-somos-content .first-img {
+        width: 185px;
+        height: 135px;
+    }
+
+    section#section-pag-sobre .container-lasts-content-sobre {
+        height: 115px;
+    }
+
+    section#section-pag-sobre .objetivo-content, 
+    section#section-pag-sobre .contato-content {
+        padding-left: 18px;
+    }
+
+    section#section-pag-sobre .txt-objetivo h2, 
+    section#section-pag-sobre .txt-contato h2 {
+        font-size: 15px;
+    }
+
+    section#section-pag-sobre .txt-objetivo .divider, 
+    section#section-pag-sobre .txt-contato .divider {
+        width: 20px;
+    }
+
+    section#section-pag-sobre .objetivo-content .second-img {
+        width: 90px;
+        height: 80%;
+    }
+
+    section#section-pag-sobre .contato-content .third-img {
+        width: 80px;
+        height: 44px;
+        margin-right: 19px;
+    }
+}
+
+@media (max-width: 542px) {
+    header .content-slide1 img {
+        width: 210px;
+        height: 190px;
+    }
+
+    header .slide .content-slide1 {
+        gap: 40px;
+    }
+
+    #section-introduction .img-content-introduction {
+        height: 195px;
+    }
+
+    #section-introduction .txt-content-introduction h1 {
+        font-size: 30px;
+    }
+
+    #section-introduction {
+        padding: 90px 85px;
+    }
+
+    footer .signs-container-footer {
+        margin: 70px 16% 20px 14%;
+        flex-direction: column;
+        gap: 60px;
+    }
+
+    #section-histories.section-pecas .title-content h5 {
+        margin-bottom: 6px;
+        font-size: 18px;
+    }
+
+    #section-histories.section-pecas .title-content h2 {
+        font-size: 30px;
+    }
+
+    #section-histories.section-pecas .title-content {
+        width: 90%;
+    }
+
+    header.header-others-pags .container-header {
+        padding-top: 50px;
+        padding-bottom: 50px;
+        gap: 10px;
+    }
+
+    header.header-others-pags .container-header h1 {
+        font-size: 31px;
+    }
+
+    section#section-pag-sobre {
+        padding: 60px 50px 80px 50px;
+    }
+
+    section#section-pag-sobre .qm-somos-content {
+        height: 160px;
+        padding-left: 45px;
+    }
+
+    section#section-pag-sobre .txt-qm-somos h2 {
+        font-size: 20px;
+    }
+
+    section#section-pag-sobre .qm-somos-content .first-img {
+        width: 190px;
+        height: 130px;
+    }
+
+    section#section-pag-sobre .objetivo-content .second-img {
+        width: 97px;
+        height: 85%;
+    }
+
+    section#section-pag-sobre .contato-content .third-img {
+        width: 78px;
+        height: 44px;
+        margin-right: 19px;
+    }
+
+    main {
+        padding: 70px 13.2% 50px 13.2%;
+    }
+
+    main .main-section {
+        margin-bottom: 50px;
+    }
+
+    main .main-section summary {
+        font-size: 25px;
+    }
+
+    main .main-section .divider {
+        margin-bottom: 10px;
+    }
+
+    main .main-section h4 {
+        font-size: 18px;
+    }
+}
+
+@media (max-width: 491px) {
+    header .txt-content-slide1 h1 {
+        margin-bottom: 0;
+        font-size: 28px;
+        line-height: 1.5;
+    }
+
+    header .txt-content-slide1 p {
+        font-size: 14.5px;
+    }
+
+    header .txt-content-slide1 a {
+        width: 160px;
+        font-size: 14.5px;
+        margin-top: 7px;
+    }
+
+    header .slide .content-slide1 {
+        gap: 35px;
+    }
+
+    header .slider .manual-navigation {
+        margin-top: -9.45%;
+    }
+
+    header .slider .manual-btn:not(:last-child) {
+        margin-right: 30px;
+    }
+
+    header nav .img-nav {
+        width: 145px;
+        height: 70px;
+    }
+
+    header #active-sidebar {
+        width: 35px;
+        height: 25px;
+    }
+
+    #section-introduction .img-content-introduction {
+        height: 170px;
+    }
+
+    #section-introduction .txt-content-introduction h1 {
+        font-size: 28px;
+    }
+
+    #section-introduction .txt-content-introduction p {
+        font-size: 15px;
+    }
+
+    #section-introduction .txt-content-introduction a {
+        font-size: 12px;
+    }
+
+    #section-histories .histories-content .history-card {
+        width: 205px;
+        height: 345px;
+    }
+
+    #section-histories .history-card .img-content-card {
+        width: 100%;
+        height: 175px;
+    }
+
+    #section-histories .history-card.one .img-content-card img {
+        width: 150px;
+    }
+
+    #section-histories .history-card.three .img-content-card img {
+        width: 180px;
+        height: 130px;
+    }
+
+    #section-histories .title-content {
+        width: 90%;
+    }
+
+    #section-histories .title-content h5 {
+        text-align: center;
+    }
+
+    #section-histories.section-pecas {
+        margin-top: 0px;
+    }
+
+    header.header-others-pags .container-header {
+        margin-bottom: 60px;
+    }
+
+    header.header-others-pags .container-header h1 {
+        font-size: 28px;
+    }
+
+    section#section-pag-sobre .qm-somos-content {
+        padding-left: 40px;
+    }
+
+    section#section-pag-sobre .txt-qm-somos h2 {
+        font-size: 20px;
+    }
+
+    section#section-pag-sobre .qm-somos-content .first-img {
+        width: 175px;
+        height: 120px;
+    }
+
+    section#section-pag-sobre .objetivo-content .second-img {
+        width: 78px;
+        height: 70%;
+    }
+
+    section#section-pag-sobre .contato-content .third-img {
+        width: 70px;
+        height: 39px;
+        margin-right: 16px;
+    }
+}
+
+@media (max-width: 471px) {
+    section#section-pag-sobre .container-lasts-content-sobre {
+        height: 200px;
+    }
+
+    section#section-pag-sobre .objetivo-content, 
+    section#section-pag-sobre .contato-content {
+        padding-top: 20px;
+        padding-left: 25px;
+        align-items: flex-start;
+        justify-content:flex-start;
+        flex-direction: column;
+        gap: 2px;
+    }
+
+    section#section-pag-sobre .contato-content {
+        gap: 29px;
+    }
+
+    section#section-pag-sobre .txt-objetivo h2, 
+    section#section-pag-sobre .txt-contato h2 {
+        font-size: 16px;
+    }
+
+    section#section-pag-sobre .objetivo-content .second-img {
+        width: 100px;
+        height: 55%;
+    }
+
+    section#section-pag-sobre .contato-content .third-img {
+        width: 95px;
+        height: 28%;
+        margin-right: 0px;
+        margin-left: 5px;
+    }
+
+    main {
+        padding: 70px 13.2% 50px 13.2%;
+    }
+
+    main .main-section summary {
+        font-size: 22px;
+    }
+
+    main .main-section h4 {
+        font-size: 17px;
+    }
+}
+
+@media (max-width: 431px) {
+    #section-introduction {
+        padding: 70px 65px;
+        gap: 40px;
+    }
+
+    #section-histories.section-pecas .title-content h5 {
+        margin-bottom: 7px;
+        font-size: 18px;
+        text-align: left;
+    }
+
+    #section-histories.section-pecas .title-content h2 {
+        font-size: 28px;
+    }
+
+    #section-histories.section-pecas .title-content {
+        width: 80%;
+    }
+
+    header.header-others-pags .container-header {
+        margin-bottom: 50px;
+    }
+
+    header.header-others-pags .container-header li {
+        font-size: 13px;
+    }
+
+    header.header-others-pags .container-header a {
+        font-size: 13px;
+    }
+
+    header.header-others-pags .container-header h1 {
+        font-size: 26px;
+    }
+
+    section#section-pag-sobre .qm-somos-content {
+        height: 135px;
+        padding-left: 35px;
+    }
+
+    section#section-pag-sobre .txt-qm-somos h2 {
+        font-size: 18px;
+    }
+
+    section#section-pag-sobre .txt-qm-somos span {
+        margin-bottom: 8px;
+    }
+
+    section#section-pag-sobre .txt-qm-somos .divider {
+        width: 25px;
+        height: 2.5px;
+    }
+
+    section#section-pag-sobre .qm-somos-content .first-img {
+        width: 145px;
+        height: 100px;
+    }
+}
+
+@media (max-width: 421px) {
+    section#section-pag-sobre .container-lasts-content-sobre {
+        height: 270px;
+        align-items: center;
+        justify-content: space-between;
+        flex-direction: column;
+        gap: 25px;
+    }
+
+    section#section-pag-sobre .objetivo-content, 
+    section#section-pag-sobre .contato-content {
+        width: 100%;
+        height: 50%;
+        padding-top: 0;
+        padding-left: 35px;
+
+        flex-direction: row;
+        align-items: center;
+        justify-content: space-between;
+    }
+
+    section#section-pag-sobre .txt-objetivo h2, 
+    section#section-pag-sobre .txt-contato h2 {
+        font-size: 18px;
+    }
+
+    section#section-pag-sobre .txt-objetivo .divider,
+    section#section-pag-sobre .txt-contato .divider {
+        width: 25px;
+        height: 2.5px;    
+    }
+
+    section#section-pag-sobre .objetivo-content .second-img {
+        width: 115px;
+        height: 90%;
+        margin-right: 20px;
+    }
+
+    section#section-pag-sobre .contato-content .third-img {
+        width: 100px;
+        height: 45%;
+        margin-right: 20px;
+    }
+
+    main {
+        padding: 60px 13.2% 30px 13.2%;
+    }
+
+    main .main-section summary {
+        font-size: 21px;
+        width: 100%;
+    }
+
+    main .main-section h4 {
+        font-size: 16px;
+    }
+}
+
+@media (max-width: 392px) {
+    header .slider .manual-navigation {
+        margin-top: -11.45%;
+    }
+
+    #section-introduction .img-content-introduction {
+        height: 155px;
+    }
+
+    header.header-others-pags .container-header {
+        padding-top: 40px;
+        padding-bottom: 40px;
+        gap: 15px;
+    }
+
+    header.header-others-pags .container-header h1 {
+        width: 80%;
+        font-size: 24px;
+    }
+
+    section#section-pag-sobre {
+        padding: 40px 45px 80px 45px;
+    }
+
+    section#section-pag-sobre .qm-somos-content {
+        height: 115px;
+        padding-left: 30px;
+    }
+
+    section#section-pag-sobre .txt-qm-somos h2 {
+        font-size: 16px;
+    }
+
+    section#section-pag-sobre .txt-qm-somos .divider {
+        width: 24px;
+    }
+
+    section#section-pag-sobre .qm-somos-content .first-img {
+        width: 145px;
+        height: 100px;
+    }
+
+    section#section-pag-sobre .txt-objetivo h2, 
+    section#section-pag-sobre .txt-contato h2 {
+        font-size: 16px;
+    }
+
+    section#section-pag-sobre .objetivo-content .second-img {
+        width: 105px;
+        height: 89%;
+    }
+
+    section#section-pag-sobre .contato-content .third-img {
+        width: 95px;
+        height: 42%;
+        margin-right: 30px;
+    }
+}
+
+@media (max-width: 352px) {
+    header .content-slide1 img {
+        width: 180px;
+        height: 170px;
+    }
+
+    header .slide .content-slide1 {
+        gap: 60px;
+    }
+
+    header .slider .manual-btn:not(:last-child) {
+        margin-right: 20px;
+    }
+
+    header nav .img-nav {
+        width: 120px;
+        height: 60px;
+    }
+
+    header #active-sidebar {
+        width: 30px;
+        height: 20px;
+    }
+
+    #section-introduction .img-content-introduction {
+        height: 130px;
+    }
+
+    #section-introduction .txt-content-introduction h1 {
+        font-size: 26px;
+    }
+
+    #section-introduction .txt-content-introduction p {
+        font-size: 14.5px;
+    }
+
+    #section-introduction .txt-content-introduction a {
+        font-size: 11px;
+    }
+
+    section#section-pag-sobre .qm-somos-content {
+        height: 100px;
+        padding-left: 30px;
+    }
+
+    section#section-pag-sobre .txt-qm-somos h2 {
+        font-size: 16px;
+    }
+
+    section#section-pag-sobre .qm-somos-content .first-img {
+        width: 115px;
+        height: 80px;
+    }
+
+    section#section-pag-sobre {
+        padding: 40px 45px 55px 45px;
+    }
+
+    section#section-pag-sobre .container-lasts-content-sobre {
+        height: 225px;
+    }
+
+    section#section-pag-sobre .objetivo-content, 
+    section#section-pag-sobre .contato-content {
+        padding-left: 30px;
+    }
+
+    section#section-pag-sobre .objetivo-content .second-img {
+        width: 85px;
+        height: 79%;
+    }
+
+    section#section-pag-sobre .contato-content .third-img {
+        width: 70px;
+        height: 37%;
+        margin-right: 20px;
+    }
+}
+
+@media (max-width: 340px) {
+    header .txt-content-slide1 h1 {
+        font-size: 25px;
+    }
+
+    header .txt-content-slide1 p {
+        font-size: 14px;
+    }
+
+    header .txt-content-slide1 a {
+        width: 140px;
+        font-size: 13px;
+    }
+
+    header .slide .content-slide1 {
+        gap: 50px;
+    }
+
+    header nav .menu-sidebar {
+        width: 220px;
+    }
+
+    #section-histories.section-pecas .title-content h2 {
+        font-size: 27px;
+    }
+
+    main .main-section {
+        margin-bottom: 40px;
+    }
+
+    main .main-section summary {
+        font-size: 22px;
+    }
+
+    main .main-section h4 {
+        font-size: 16px;
+    }
+}
+
+@media (max-width: 304px) {
+    header .content-slide1 img {
+        width: 150px;
+        height: 150px;
+    }
+
+    header .txt-content-slide1 h1 {
+        font-size: 23px;
+    }
+
+    header .txt-content-slide1 p {
+        font-size: 13px;
+    }
+
+    header .txt-content-slide1 a {
+        width: 130px;
+        font-size: 12px;
+    }
+
+    header .slide .content-slide1 {
+        gap: 30px;
+    }
+
+    header .slider {
+        height: 530px;
+    }
+
+    header .slider .manual-navigation {
+        margin-top: -14.45%;
+    }
+
+    header nav .img-nav {
+        width: 105px;
+        height: 55px;
+    }
+
+    header #active-sidebar {
+        width: 28px;
+        height: 18px;
+    }
+
+    #section-introduction .img-content-introduction {
+        height: 110px;
+    }
+
+    #section-introduction .txt-content-introduction h1 {
+        font-size: 25px;
+    }
+
+    #section-introduction .txt-content-introduction p {
+        font-size: 14px;
+    }
+
+    #section-introduction .txt-content-introduction a {
+        font-size: 10px;
+    }
+
+    #section-introduction {
+        padding: 70px 50px;
+        gap: 30px;
+    }
+
+    header nav .menu-sidebar {
+        width: 200px;
+    }
+
+    section#section-pag-sobre {
+        padding: 40px 40px 55px 40px;
+    }
+
+    section#section-pag-sobre .qm-somos-content {
+        height: 90px;
+        padding-left: 25px;
+    }
+
+    section#section-pag-sobre .txt-qm-somos h2 {
+        font-size: 14px;
+    }
+
+    section#section-pag-sobre .txt-qm-somos .divider {
+        width: 22px;
+    }
+
+    section#section-pag-sobre .qm-somos-content .first-img {
+        width: 100px;
+        height: 65px;
+    }
+
+    section#section-pag-sobre .container-lasts-content-sobre {
+        height: 205px;
+    }
+
+    section#section-pag-sobre .objetivo-content, 
+    section#section-pag-sobre .contato-content {
+        padding-left: 25px;
+    }
+
+    section#section-pag-sobre .txt-objetivo h2, 
+    section#section-pag-sobre .txt-contato h2 {
+        font-size: 14px;
+    }
+
+    section#section-pag-sobre .objetivo-content .second-img {
+        width: 80px;
+        height: 80%;
+        margin-right: 8px;
+    }
+
+    section#section-pag-sobre .contato-content .third-img {
+        width: 68px;
+        height: 38%;
+        margin-right: 15px;
+    }
+}
+
+@media (max-width: 280px) {
+    header .content-slide1 img {
+        width: 140px;
+        height: 140px;
+    }
+
+    header .txt-content-slide1 h1 {
+        font-size: 22px;
+    }
+
+    header .txt-content-slide1 p {
+        font-size: 12.5px;
+    }
+
+    header .slide .content-slide1 {
+        gap: 20px;
+    }
+
+    header .slider {
+        height: 515px;
+    }
+}
