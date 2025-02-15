@@ -1,1 +1,2 @@
 # Website informativo dedicado à história dos computadores e à explicação detalhada de seus componentes e periféricos, oferece uma seção interativa com descrições técnicas e funcionais de peças essenciais, como processadores, placas-mãe, memórias, armazenamentos e dispositivos periféricos. O objetivo do projeto é fornecer um conteúdo acessível e educativo para entusiastas, estudantes e profissionais da área de tecnologia.
+# [![Blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://pc-experience.github.io/PcExperience/)
